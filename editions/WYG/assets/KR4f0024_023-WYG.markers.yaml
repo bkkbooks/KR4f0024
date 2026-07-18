@@ -13,6 +13,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR4f0024_WYG_023-1a02}
   - {type: indent, offset: 0, content: 　, id: KR4f0024_WYG_023-bkkind1}
   - {type: punctuation, offset: 9, content: (, id: KR4f0024_WYG_023-bkkpn1}
+  - {type: voice, offset: 9, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 11, content: /, id: KR4f0024_WYG_023-bkkpn2}
   - {type: punctuation, offset: 11, content: ), id: KR4f0024_WYG_023-bkkpn3}
   - {type: 'kr:newline', offset: 11, content: '
@@ -784,9 +785,11 @@ markers:
       ', id: KR4f0024_WYG_023-bkkkrnewl185}
   - {type: line-break, offset: 2653, content: '', id: KR4f0024_WYG_023-11a06}
   - {type: punctuation, offset: 2653, content: (, id: KR4f0024_WYG_023-bkkpn4}
+  - {type: voice, offset: 2653, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 2654, content: /, id: KR4f0024_WYG_023-bkkpn5}
   - {type: punctuation, offset: 2655, content: ), id: KR4f0024_WYG_023-bkkpn6}
   - {type: punctuation, offset: 2662, content: (, id: KR4f0024_WYG_023-bkkpn7}
+  - {type: voice, offset: 2662, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 2663, content: /, id: KR4f0024_WYG_023-bkkpn8}
   - {type: punctuation, offset: 2664, content: ), id: KR4f0024_WYG_023-bkkpn9}
   - {type: 'kr:newline', offset: 2676, content: '
@@ -955,6 +958,7 @@ markers:
       ', id: KR4f0024_WYG_023-bkkkrnewl225}
   - {type: line-break, offset: 3202, content: '', id: KR4f0024_WYG_023-13b01}
   - {type: punctuation, offset: 3216, content: (, id: KR4f0024_WYG_023-bkkpn10}
+  - {type: voice, offset: 3216, length: 8, name: note, id: n4}
   - {type: punctuation, offset: 3220, content: /, id: KR4f0024_WYG_023-bkkpn11}
   - {type: punctuation, offset: 3224, content: ), id: KR4f0024_WYG_023-bkkpn12}
   - {type: 'kr:newline', offset: 3224, content: '
@@ -1070,4 +1074,4 @@ markers:
 
       ', id: KR4f0024_WYG_023-bkkkrnewl251}
   back: []
-hash: sha256:831cc610e072d161da04f6d85bd84836854697665bd741f3a78439a2bd326ea1
+hash: sha256:fd82bad50ab9e9c7f3d3a4b69c10147411a18d1eaff809bfc40ae8202a903cdd

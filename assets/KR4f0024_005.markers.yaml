@@ -14,6 +14,7 @@ markers:
   - {type: indent, offset: 0, content: 　, id: KR4f0024_krp_005-bkkind1}
   - {type: substitution, offset: 5, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
   - {type: punctuation, offset: 7, content: (, id: KR4f0024_krp_005-bkkpn1}
+  - {type: voice, offset: 7, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 11, content: /, id: KR4f0024_krp_005-bkkpn2}
   - {type: punctuation, offset: 11, content: ), id: KR4f0024_krp_005-bkkpn3}
   - {type: 'kr:newline', offset: 11, content: '
@@ -1315,4 +1316,4 @@ markers:
 
       ', id: KR4f0024_krp_005-bkkkrnewl269}
   back: []
-hash: sha256:d418f20cdeb683a299afe98afc084e033a20ccfa2f766f18ff0add84c9d44d12
+hash: sha256:ccd944bd2b520dc786ee32296cb0bd31e92fde2432c926d6c0d46c485dcac301

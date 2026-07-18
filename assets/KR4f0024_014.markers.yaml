@@ -145,6 +145,7 @@ markers:
   - {type: substitution, offset: 359, original: 徃, replacement: 往, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16735}}
   - {type: indent, offset: 373, content: 　, id: KR4f0024_krp_014-bkkind9}
   - {type: punctuation, offset: 373, content: (, id: KR4f0024_krp_014-bkkpn1}
+  - {type: voice, offset: 373, length: 16, name: note, id: n1}
   - {type: punctuation, offset: 375, content: /, id: KR4f0024_krp_014-bkkpn2}
   - {type: punctuation, offset: 377, content: ), id: KR4f0024_krp_014-bkkpn3}
   - {type: indent, offset: 377, content: 　, id: KR4f0024_krp_014-bkkind10}
@@ -178,6 +179,7 @@ markers:
   - {type: line-break, offset: 431, content: '', id: KR4f0024_WYG_014-2b07}
   - {type: indent, offset: 445, content: 　, id: KR4f0024_krp_014-bkkind12}
   - {type: punctuation, offset: 445, content: (, id: KR4f0024_krp_014-bkkpn13}
+  - {type: voice, offset: 445, length: 17, name: note, id: n2}
   - {type: punctuation, offset: 447, content: /, id: KR4f0024_krp_014-bkkpn14}
   - {type: punctuation, offset: 449, content: ), id: KR4f0024_krp_014-bkkpn15}
   - {type: indent, offset: 449, content: 　, id: KR4f0024_krp_014-bkkind13}
@@ -1124,6 +1126,7 @@ markers:
   - {type: line-break, offset: 3233, content: '', id: KR4f0024_WYG_014-14a02}
   - {type: indent, offset: 3233, content: 　　　, id: KR4f0024_krp_014-bkkind51}
   - {type: punctuation, offset: 3248, content: (, id: KR4f0024_krp_014-bkkpn25}
+  - {type: voice, offset: 3248, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 3250, content: /, id: KR4f0024_krp_014-bkkpn26}
   - {type: punctuation, offset: 3250, content: ), id: KR4f0024_krp_014-bkkpn27}
   - {type: 'kr:newline', offset: 3250, content: '
@@ -1374,4 +1377,4 @@ markers:
 
       ', id: KR4f0024_krp_014-bkkkrnewl287}
   back: []
-hash: sha256:a90c747eed7192afc46105643e7c6c9e0433f77fc7dde7d4f9ffcb5175d40998
+hash: sha256:fcd01c183e052e0fcdce82f0b102380132972ad1972d6257163fd02487230a5c
